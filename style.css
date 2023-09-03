@@ -1,0 +1,66 @@
+body{
+    font-family: 'Poppins';
+    color: crimson;
+    background-color: aqua;
+}
+
+h2{
+    font-family: inherit;
+}
+
+#categories {
+    float: left;
+    width: 20%;
+}
+
+#products {
+    float: left;
+    width: 40%;
+}
+
+#product-info {
+    float: left;
+    width: 40%;
+}
+
+.category {
+    cursor: pointer;
+}
+
+.product {
+    cursor: pointer;
+}
+
+#buy-button {
+    display: none;
+    border-radius: 20%;
+    background-color: orchid;
+}
+
+.info1 {
+    display: none;
+}
+.info2 {
+    display: none;
+}
+.info3 {
+    display: none;
+}
+.info4 {
+    display: none;
+}
+.info5 {
+    display: none;
+}
+.info6 {
+    display: none;
+}
+.info7 {
+    display: none;
+}
+.info8 {
+    display: none;
+}
+.info9 {
+    display: none;
+}
